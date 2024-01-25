@@ -1,5 +1,28 @@
 ﻿# Chainlink-Bootcamp-2024
 
+​Blockchain concepts and Wallets
+
+​Solidity Fundamentals
+
+​ERC20 Tokens and Chainlink Data Feeds
+
+​Cross Chain Tokens using Chainlink CCIP
+
+​Mentoring session with the Chainlink community
+
+​NFTs and Chainlink Automation
+
+​Chainlink CCIP in cross-chain dApps
+
+​Random Numbers using Chainlink VRF
+
+​Chainlink Functions to access off-chain data
+
+​Connecting the world using the Chainlink platform
+
+​Instructor:
+
+*​Solange Gueiros*, Chainlink Developer Advocate
  
 Link to Sessions:
 
